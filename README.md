@@ -3,9 +3,9 @@
 This is an experiment derived from the following Thesis question: To what extent does a statistical UEBA-based detection model outperform rule-based detection systems in reducing false positives and improving detection accuracy on the CERT Insider Threat Dataset? 
 
 ## Project Description 
-This study adopts a comparative evaluation of two different detection mechanisms: a Rule-Based Detection Engine and a Statistical User and Entity Behavior Analytics (UEBA) Model.The proposed framework processes enterprise log data, extracts behavioral features, construct user behavioral baseline, and detects anomalies through statistical analysis and rule correlation.  
+The study adopts a comparative evaluation of two different detection mechanisms: a Rule-Based Detection Engine and a Statistical User and Entity Behavior Analytics (UEBA) Model.The proposed framework processes enterprise log data, extracts behavioral features, construct user behavioral baseline, and detects anomalies through statistical analysis and rule correlation.  
 
-## Research Design
+### Research Design
 
 ```mermaid
 flowchart LR
